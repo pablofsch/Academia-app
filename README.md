@@ -1,1 +1,1 @@
-# Academia-app
+# academia-app
